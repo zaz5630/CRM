@@ -6,3 +6,4 @@ dev update
 master update
 dev update22222
 push to remote hahaha
+to local from remote
